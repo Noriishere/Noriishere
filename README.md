@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello World! This is Nori 👋
 
 <!--
 **Noriishere/Noriishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently Studying in [Universitas Buana Perjuangan Karawang](https://ubpkarawang.ac.id/)
+🌱 I’m currently learning Javascript on [Dea Afrizal](https://www.youtube.com/@deaafrizal)
+💬 Ask me about Logical algorithm
+📫 How to reach me:
+- ###### ✉️ [Email](bagasb65nurdiansyah@gmail.com)
+- ###### 📷 [Instagram](https://instagram.com/bagasnrdiansy)
