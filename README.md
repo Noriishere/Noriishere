@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -  🌱 I’m currently learning Javascript on [Dea Afrizal](https://www.youtube.com/@deaafrizal)
 - 💬 Ask me about Logical algorithm
 📫 How to reach me:
-- - ###### ✉️ [Email](bagasb65nurdiansyah@gmail.com)
-- - ###### 📷 [Instagram](https://instagram.com/bagasnrdiansy)
+###### ✉️ [Email](bagasb65nurdiansyah@gmail.com)
+###### 📷 [Instagram](https://instagram.com/bagasnrdiansy)
