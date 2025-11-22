@@ -43,5 +43,7 @@ I'm a first–year Informatics student who loves algorithms, coding, and learnin
 - **[PunyaKamu](https://github.com/Noriishere/web-tracking-progress-belajar)**
 - **[Jubelin]()** _Coming soon_
 
+---
+
 ### Thanks for stopping by! 😄  
 *Feel free to explore my repos or reach out to me anytime!*
