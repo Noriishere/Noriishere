@@ -1,22 +1,42 @@
-# Hello World! This is Nori 👋
+# Hello World! I'm Nori 👋
 
-<!--
-**Noriishere/Noriishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! Welcome to my GitHub profile.  
+I'm a first–year Informatics student who loves algorithms, coding, and learning new things every day 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently Studying in [Universitas Buana Perjuangan Karawang](https://ubpkarawang.ac.id/)
--  🌱 I’m currently learning Javascript on [Dea Afrizal](https://www.youtube.com/@deaafrizal)
-- 💬 Ask me about Logical algorithm
-📫 How to reach me:
-###### ✉️ [Email](bagasb65nurdiansyah@gmail.com)
-###### 📷 [Instagram](https://instagram.com/bagasnrdiansy)
+## 🌟 About Me
+
+- 🔭 Currently studying at **[Universitas Buana Perjuangan Karawang](https://ubpkarawang.ac.id/)**  
+- 🌱 Learning **JavaScript** from **[Dea Afrizal](https://www.youtube.com/@deaafrizal)**  
+- 💬 Ask me about **logical algorithms**  
+- ⚡ Fun fact: I code better at night 🌙  
+
+---
+
+## 📫 How to Reach Me
+
+- ✉️ Email: **bagasb65nurdiansyah@gmail.com**  
+- 📷 Instagram: **[@bagasnrdiansy](https://instagram.com/bagasnrdiansy)**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noriishere&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noriishere&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🛠️ Tech & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,git,github,laravel,react,nodejs,mysql,vscode" />
+</p>
+
+---
+
+### Thanks for stopping by! 😄  
+*Feel free to explore my repos or reach out to me anytime!*
