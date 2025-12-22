@@ -40,7 +40,7 @@ I'm a first–year Informatics student who loves algorithms, coding, and learnin
 
 ## 🦺 Currently Project
 
-- **[PunyaKamu](https://github.com/Noriishere/web-tracking-progress-belajar)**
+- **[mine](https://mine-project.my.id/)**
 - **[Jubelin]()** _Coming soon_
 
 ---
