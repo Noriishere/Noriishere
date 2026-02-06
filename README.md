@@ -24,8 +24,14 @@ I'm a Second–year Informatics student who loves algorithms, coding, and learni
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noriishere&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noriishere&layout=compact&theme=tokyonight" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Noriishere&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noriishere&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="150"
+  />
 </p>
 
 ---
