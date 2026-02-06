@@ -1,7 +1,7 @@
 # Hello World! I'm Nori 👋
 
 Hi there! Welcome to my GitHub profile.  
-I'm a first–year Informatics student who loves algorithms, coding, and learning new things every day 🚀
+I'm a Second–year Informatics student who loves algorithms, coding, and learning new things every day 🚀
 
 ---
 
