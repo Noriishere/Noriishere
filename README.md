@@ -1,7 +1,7 @@
 # Hi there, I'm Nori 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRmM2d4ZGVwcmF6cDdzMGVrY3oyZDVibXV3YThyaTNoYTlnOHA1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/njH4f6IJ38WnB1L17F/giphy.gif" width="500" />
 </p>
 
 <h3 align="center">Backend Developer Enthusiast • FastAPI • Laravel • PostgreSQL</h3>
