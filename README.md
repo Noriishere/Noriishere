@@ -89,7 +89,7 @@ Built with Ionic Angular.
 # GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Noriishere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+ ![Noriishere's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Noriishere&theme=dark)
 </p>
 
 <p align="center">
@@ -98,10 +98,10 @@ Built with Ionic Angular.
 
 ---
 
-# Contribution Streak
+# Top Language
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Noriishere&theme=tokyonight&hide_border=true" />
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Noriishere&theme=dark)
 </p>
 
 ---
