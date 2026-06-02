@@ -1,7 +1,7 @@
 # Hi there, I'm Nori 👋
 
 <p align="center">
-  <img src="me.gif" width="400">
+  <img src="me.gif">
 </p>
 
 <h3 align="center">Backend Developer Enthusiast • FastAPI • Laravel • PostgreSQL</h3>
