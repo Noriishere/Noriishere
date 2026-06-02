@@ -89,11 +89,7 @@ Built with Ionic Angular.
 # GitHub Analytics
 
 <p align="center">
- ![Noriishere's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Noriishere&theme=dark)
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noriishere&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-stats-github.pages.dev/api?username=Noriishere&theme=dark" />
 </p>
 
 ---
@@ -101,9 +97,8 @@ Built with Ionic Angular.
 # Top Language
 
 <p align="center">
-  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Noriishere&theme=dark)
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Noriishere&theme=dark" />
 </p>
-
 ---
 
 # Contact
