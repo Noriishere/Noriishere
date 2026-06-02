@@ -99,6 +99,7 @@ Built with Ionic Angular.
 <p align="center">
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Noriishere&theme=dark" />
 </p>
+
 ---
 
 # Contact
